@@ -14,7 +14,7 @@ I'm an IT Operations Lead at Broughton Partners, where I design and deploy produ
 - Currently building a **production RAG AI chatbot** with Amazon Bedrock, Lex, LangChain, and DynamoDB
 - AWS Certified: **Developer Associate**, **Cloud Practitioner**, **Solutions Architect** *(May 2026)*
 - Focused on **Sovereign AI** — enterprise GenAI with zero data leakage to public models
-- Based in Savannah, GA
+- Making my move to Chicago, IL
 
 ---
 
